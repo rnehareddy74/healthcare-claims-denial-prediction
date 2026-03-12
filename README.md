@@ -1,14 +1,14 @@
 #  Healthcare Claim Denial Prediction
 
-> End-to-end data science project on 50,000 healthcare claims — statistical testing, cohort analysis, bias auditing, and ML model pipeline to predict and prevent claim denials.
+> End-to-end data science project on 50,000 healthcare claims - statistical testing, cohort analysis, bias auditing, and ML model pipeline to predict and prevent claim denials.
 
 ---
 
 ##  Business Problem
 
-U.S. healthcare providers lose **$262B+ annually** to claim denials. A denied claim means delayed or lost revenue, extra administrative work, and in many cases the patient never gets reimbursed.
+U.S. healthcare providers lose $262B+ annually to claim denials. A denied claim means delayed or lost revenue, extra administrative work, and in many cases the patient never gets reimbursed.
 
-This project builds a production-style ML pipeline that **predicts which claims will be denied before submission** — so billing teams can fix documentation issues in time, reducing the $197.7M in denied revenue found in this dataset.
+This project builds a production-style ML pipeline that predicts which claims will be denied before submission — so billing teams can fix documentation issues in time, reducing the $197.7M in denied revenue found in this dataset.
 
 
 
@@ -143,7 +143,7 @@ pip install -r requirements.txt
 jupyter notebook notebooks/Healthcare_Claim_Denial_Prediction.ipynb
 ```
 
-Place `Healthcare_Claims_Dataset.csv` in the `data/` folder before running.
+Place `Healthcare_Claims_Dataset_2025.csv` in the `data/` folder before running.
 
 ---
 
